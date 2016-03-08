@@ -1,0 +1,10 @@
+# File types
+*.Rproj
+.Rproj.user
+*.zip
+*.csv
+*.pdf
+.Rhistory
+
+# Specific files
+1585.txt

@@ -1,0 +1,14 @@
+citation_author
+citation_year
+citation_title
+cultivar
+species
+site
+treatment
+date
+[trait variable n]
+[covariate n]
+n
+SE
+notes
+access_level
